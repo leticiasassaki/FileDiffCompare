@@ -6,7 +6,7 @@ an information about it. Initially it'll only response if the files are the same
 
 ## How to run it?
 
-First thing first, before start the project locally, you'll need some configuration.
+First thing first, before starting the project locally, you'll need some configuration.
 
 - Install nodejs
 - Install NPM
