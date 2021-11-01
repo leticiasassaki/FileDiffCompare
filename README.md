@@ -1,7 +1,7 @@
 # FileDiffCompare Project
 
 This project is based on an idea of compare two files and give
-a information about it. Initially it'll only response if the files are the same, but
+an information about it. Initially it'll only response if the files are the same, but
  in a near future we may provide some more information, so, enjoy it ;)
 
 ## How to run it?
